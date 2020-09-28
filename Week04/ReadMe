@@ -1,2 +1,6 @@
 File(s)
--rw-r--r-- 1 ShovanBiswas 197121 1691 Sep 20 03:39 'Week 4.ipynb'
+-rw-r--r-- 1 ShovanBiswas 197121 1691 Sep 20 03:39 'Week 4.ipynb'            This is the project proposal that was submitted last week.
+
+-rw-r--r-- 1 ShovanBiswas 197121   27888 Sep 27 23:17 'Project 1.ipynb'      This is the IPython notebook, the main program file.
+-rw-r--r-- 1 ShovanBiswas 197121 1063159 Sep 27 21:14  polblogs.gml          This is the input .gml file.
+-rw-r--r-- 1 ShovanBiswas 197121     782 Sep 27 21:14  polblogs.txt          This is just a descriptive text file.
